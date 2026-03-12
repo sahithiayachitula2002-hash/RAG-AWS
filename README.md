@@ -50,14 +50,8 @@ The goal of this project is to demonstrate how modern GenAI systems combine **LL
 
 ## Installation
 
-Clone the repository:
-
-git clone https://github.com/yourusername/rag-agent.git
-
-cd rag-agent
-
+Clone the repository
 Install dependencies:
-
 pip install -r requirements.txt
 
 ---
