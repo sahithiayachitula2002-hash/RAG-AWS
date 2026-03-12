@@ -1,0 +1,11 @@
+streamlit
+boto3
+python-dotenv
+langchain
+langchain-aws
+langchain-community
+faiss-cpu
+numpy
+pandas
+tqdm
+pypdf
